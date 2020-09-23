@@ -2,23 +2,8 @@
 
 * This project is our graduation work and we are sure there will be no plans to make it commercially available at all.
 
-Source
-------------
-Squats video from : https://youtu.be/mGvzVjuY8SY 
-
-Sidebend video from : https://youtu.be/Df5e9Kr5K_c
-
-Sidecrunch video from : https://youtu.be/NX8Pr33lqdU
-
-Situps video from : https://youtu.be/5bOjqyL0PGE
-
-Pushups video from : https://youtu.be/rjc0O7OXS3g
 
 
-
-
-
-------------
 YAY! You can exercise AnYwhere
 
 Being force to stay inside is going to pose a challenge for remaining active. 
@@ -42,5 +27,21 @@ Why YAY ?
 yay is the word we use to express joy, approval, or excitement. 
 
 Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anytime.
+
+
+
+
+Source
+------------
+Squats video from : https://youtu.be/mGvzVjuY8SY 
+
+Sidebend video from : https://youtu.be/Df5e9Kr5K_c
+
+Sidecrunch video from : https://youtu.be/NX8Pr33lqdU
+
+Situps video from : https://youtu.be/5bOjqyL0PGE
+
+Pushups video from : https://youtu.be/rjc0O7OXS3g
+
 
 

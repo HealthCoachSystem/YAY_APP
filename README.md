@@ -16,6 +16,7 @@ Pushups video from : https://youtu.be/rjc0O7OXS3g
 
 
 
+
 YAY
 ------------
 YAY! You can exercise AnYwhere
@@ -23,6 +24,7 @@ YAY! You can exercise AnYwhere
 Being force to stay inside is going to pose a challenge for remaining active. 
 Exercise is now more important than ever. 
 This is why we created this App.
+
 
 
 

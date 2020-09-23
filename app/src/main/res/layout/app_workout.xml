@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/workoutsample"
+        android:layout_width="500dp"
+        android:layout_height="260dp"
+        android:src="@drawable/sample"
+        android:scaleType="fitXY"
+
+        />
+
+    <ListView
+        android:layout_below="@+id/workoutsample"
+        android:id="@+id/app_workoutlist"
+        android:layout_width="match_parent"
+        android:layout_height="547dp"></ListView>
+
+
+</RelativeLayout>
+</LinearLayout>

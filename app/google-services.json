@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048240184473",
+    "firebase_url": "https://healthcoach-755d5.firebaseio.com",
+    "project_id": "healthcoach-755d5",
+    "storage_bucket": "healthcoach-755d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048240184473:android:c06f2143bc17436e976c08",
+        "android_client_info": {
+          "package_name": "com.example.healthcoach01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048240184473-av22hq7m3d26egj981qarc824mo8bhpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcoach01",
+            "certificate_hash": "539d2fbe50b4064cbb11b98bbc56690d3865c98f"
+          }
+        },
+        {
+          "client_id": "1048240184473-mp7emmbm6k4ne27ejhcn8ut49pttmkv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGo5_ts_6ws5iQrvwvAozc2x-C0IB5aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048240184473-mp7emmbm6k4ne27ejhcn8ut49pttmkv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

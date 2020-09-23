@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/hometab"
+        android:icon="@drawable/usermain"
+        android:enabled="true"
+        android:title="Home" />
+    <item android:id="@+id/exercisetab"
+        android:icon="@drawable/exercise"
+        android:enabled="true"
+        android:title="Exercise"/>
+    <item android:id="@+id/gametab"
+        android:icon="@drawable/game"
+        android:enabled="true"
+        android:title="Game"/>
+    <item android:id="@+id/settingtab"
+        android:icon="@drawable/setting"
+        android:enabled="true"
+        android:title="Setting"/>
+
+</menu>
+

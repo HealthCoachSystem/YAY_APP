@@ -1,0 +1,2 @@
+rootProject.name='healthcoach01'
+include ':app'

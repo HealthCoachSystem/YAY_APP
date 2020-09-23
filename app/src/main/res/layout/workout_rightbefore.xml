@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <ImageView
+            android:id="@+id/startimageview"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="400dp"
+            android:layout_height="330dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/readyfor">
+        </ImageView>
+
+        <Button
+            android:id="@+id/workoutstartbtn"
+            android:layout_width="120dp"
+            android:layout_height="45dp"
+            android:background="@drawable/border4"
+            android:layout_marginTop="195dp"
+            android:layout_marginLeft="52dp"
+            android:text="Ready?"
+            android:fontFamily="@font/typo"
+            android:textColor="#FFF">
+        </Button>
+
+
+        <ListView
+                android:id="@+id/workoutstartlist"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/startimageview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </ListView>
+    </RelativeLayout>
+
+</LinearLayout>

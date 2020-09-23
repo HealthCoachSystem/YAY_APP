@@ -23,8 +23,3 @@ yay is the word we use to express joy, approval, or excitement.
 Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anytime.
 
 
-Screenshot
-------------
-<div>
-<img width="226" alt="workoutplay" src="https://user-images.githubusercontent.com/51042402/93577588-30c93900-f9d7-11ea-9dac-9ba7245006c6.png">
-

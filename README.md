@@ -1,15 +1,10 @@
 # YAY_README
 
-* This project is our graduation work and we are sure there will be no plans to make it commercially available at all.
-
-
-
 YAY! You can exercise AnYwhere
 
 Being force to stay inside is going to pose a challenge for remaining active. 
 Exercise is now more important than ever. 
 This is why we created this App.
-
 
 
 
@@ -30,7 +25,6 @@ Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anyt
 
 
 
-
 Source
 ------------
 Squats video from : https://youtu.be/mGvzVjuY8SY 
@@ -43,5 +37,5 @@ Situps video from : https://youtu.be/5bOjqyL0PGE
 
 Pushups video from : https://youtu.be/rjc0O7OXS3g
 
-
+* This project is our graduation work and we are sure there will be no plans to make it commercially available at all.
 

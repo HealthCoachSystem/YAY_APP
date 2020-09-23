@@ -17,7 +17,7 @@ Pushups video from : https://youtu.be/rjc0O7OXS3g
 
 
 
-YAY
+
 ------------
 YAY! You can exercise AnYwhere
 

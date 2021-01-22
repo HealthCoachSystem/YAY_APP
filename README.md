@@ -45,7 +45,6 @@ Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anyt
 </div>
 
 ## Source
----
 Squats video from : https://youtu.be/mGvzVjuY8SY 
 
 Sidebend video from : https://youtu.be/Df5e9Kr5K_c
@@ -57,4 +56,5 @@ Situps video from : https://youtu.be/5bOjqyL0PGE
 Pushups video from : https://youtu.be/rjc0O7OXS3g
 
 **This project is our graduation work and we are sure there will be no plans to make it commercially available at all.**
+
 

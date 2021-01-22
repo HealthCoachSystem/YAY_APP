@@ -42,6 +42,7 @@ Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anyt
      <td> <img src="https://user-images.githubusercontent.com/41180841/105500000-9c187400-5d05-11eb-8ecc-7f1c8f8855dc.png" width="250" height="auto"></td>
   </tr>
 </table>
+</div>
 
 ## Source
 ---

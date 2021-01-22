@@ -27,7 +27,7 @@ Enjoy exercise just as the meaning of YAY, Create your own gym anywhere and anyt
 ## Service flow
 ![yay service flow](https://user-images.githubusercontent.com/41180841/105497025-a46eb000-5d01-11eb-9280-b8fbffc206d7.JPG)
 
-## screenshot
+## Screenshot
 <div align="center">
   <table align="center" border="0" >
   <tr>

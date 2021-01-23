@@ -5,7 +5,9 @@ Being force to stay inside is going to pose a challenge for remaining active.
 
 Exercise is now more important than ever. 
 
-This is why we created this App.
+This is why we developed this App.
+
+check out our [video clip](https://www.youtube.com/watch?v=umZe5uuZ3jc).
 
 
 
